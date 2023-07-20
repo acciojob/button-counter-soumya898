@@ -11,7 +11,6 @@ const App = () => {
     <div>
        <p>Button clicked {count} times</p>
         { 
-       
         <button onClick={setCount(++count)}> Click Me  </button>
         }
     </div>
